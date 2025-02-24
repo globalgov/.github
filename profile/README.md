@@ -9,7 +9,6 @@ and [messydates](https://github.com/globalgov/messydates), for working with a mo
 Many 'manydata' packages are available through the manydata package:
 - [manystates](https://github.com/globalgov/manystates)
 - [manytreaties](https://github.com/globalgov/manytreaties)
-- [manyigos](https://github.com/globalgov/manyigos)
 
 Development has been funded by the Swiss National Science Foundation (SNSF) [Grant Number 188976](https://data.snf.ch/grants/grant/188976): “Power and Networks and the Rate of Change in Institutional Complexes” (PANARCHIC).
 See [panarchic.ch](https://panarchic.ch/) for more about the project.
